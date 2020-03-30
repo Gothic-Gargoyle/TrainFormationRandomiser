@@ -4,12 +4,12 @@
 #
 #Version: 1.0
 #
-#Description: This program randomises train formation for you after inputting a bunch of options.
+#Description: This program creates randomised train formations after giving it a bunch of parameters.
 #
-#Further information: I got bored running the same train + rolling stocks all the time, this truly is Autism
-#crystallized.
+#Further information: I got bored running the same train + rolling stock combinations all the time, this truly is Autism crystallized.
+#=========================================================#
 
-#array containing info
+#arrays containing info
 
     #Manufacturer, modelnr, name, era, company, length, type, power]
 testArrayLocomotives = [
