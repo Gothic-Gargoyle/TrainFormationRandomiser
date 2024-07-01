@@ -4,11 +4,9 @@
 #
 #Version: 1.0
 #
-#Description: This program creates randomised train formations after giving it a bunch of parameters.
+#Description: This webapp creates randomised train formations after giving it a bunch of parameters.
 #
-#Further information: I got bored running the same train + rolling stock combinations all the time, this truly is Autism crystallized.
-#=========================================================#
-
+#Further information: I got bored running the same train + rolling stock combinations all the time
 #arrays containing info
 
     #Manufacturer, modelnr, name, era, company, length, type, power]
